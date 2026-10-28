@@ -1,0 +1,48 @@
+[
+  {
+    "type": "copied-skill",
+    "name": "web-design-guidelines",
+    "source": "C:\\Users\\SEPC\\Documents\\PythonProject\\pickleball\\.agents\\skills\\web-design-guidelines"
+  },
+  {
+    "type": "copied-skill",
+    "name": "supabase-postgres-best-practices",
+    "source": "C:\\Users\\SEPC\\Documents\\PythonProject\\pickleball\\.claude\\skills\\supabase-postgres-best-practices"
+  },
+  {
+    "type": "adapted-skill",
+    "name": "worklog"
+  },
+  {
+    "type": "adapted-skill",
+    "name": "qa-report"
+  },
+  {
+    "type": "adapted-skill",
+    "name": "run-app"
+  },
+  {
+    "type": "adapted-agent",
+    "name": "qa-trader"
+  },
+  {
+    "type": "adapted-agent",
+    "name": "db-reviewer"
+  },
+  {
+    "type": "adapted-agent",
+    "name": "design-reviewer"
+  },
+  {
+    "type": "adapted-agent",
+    "name": "recorder"
+  },
+  {
+    "type": "adapted-agent",
+    "name": "deploy-status"
+  },
+  {
+    "type": "adapted-agent",
+    "name": "release"
+  }
+]
